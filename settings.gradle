@@ -1,0 +1,1 @@
+include ':app', ':flashlightlib', ':screenshotlib', ':stepcounterlib', ':movingmanager', ':lightsensorlib'

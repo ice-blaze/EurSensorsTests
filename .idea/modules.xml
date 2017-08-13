@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurSensorsTests.iml" filepath="$PROJECT_DIR$/EurSensorsTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flashlightlib/flashlightlib.iml" filepath="$PROJECT_DIR$/flashlightlib/flashlightlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lightsensorlib/lightsensorlib.iml" filepath="$PROJECT_DIR$/lightsensorlib/lightsensorlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movingmanager/movingmanager.iml" filepath="$PROJECT_DIR$/movingmanager/movingmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenshotlib/screenshotlib.iml" filepath="$PROJECT_DIR$/screenshotlib/screenshotlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stepcounterlib/stepcounterlib.iml" filepath="$PROJECT_DIR$/stepcounterlib/stepcounterlib.iml" />
+    </modules>
+  </component>
+</project>
